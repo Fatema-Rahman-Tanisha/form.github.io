@@ -1,0 +1,12 @@
+username rules -
+1/ cannot start with numbers
+2/cannot contain symbols such as !@#$%^&*()-+{}|":?><
+3/have to end with number
+
+password rules -
+2/have contain symbols such as !@#$%^&*()-+{}|":?><
+3/have to contain both capital and small letters
+
+email rules -
+2/have contain @ , .com
+3/cannot contain capital letters
